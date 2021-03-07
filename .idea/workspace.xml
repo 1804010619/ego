@@ -3,8 +3,41 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a32ce97-3233-4cd4-aa90-365ea1f5b167" name="Default Changelist" comment="" />
+    <list default="true" id="8a32ce97-3233-4cd4-aa90-365ea1f5b167" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ego-pojo/src/main/java/com/bjsxt/pojo/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/ego-pojo/src/main/java/com/bjsxt/pojo/Test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +46,19 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -36,17 +81,20 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -60,11 +108,64 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1615041203915</updated>
-      <workItem from="1615041205004" duration="322000" />
+      <workItem from="1615041205004" duration="2643000" />
+      <workItem from="1615095908206" duration="2023000" />
     </task>
+    <task id="LOCAL-00001" summary="输出hello">
+      <created>1615042063478</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615042063478</updated>
+    </task>
+    <task id="LOCAL-00002" summary="输出hello">
+      <created>1615042187653</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615042187653</updated>
+    </task>
+    <task id="LOCAL-00003" summary="输出hello">
+      <created>1615042523627</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615042523627</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="输出hello" />
+    <option name="LAST_COMMIT_MESSAGE" value="输出hello" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="138" y="123" width="1202" height="677" key="DiffContextDialog" timestamp="1615041949759">
+      <screen x="38" y="23" width="1402" height="877" />
+    </state>
+    <state x="138" y="123" width="1202" height="677" key="DiffContextDialog/38.23.1402.877@38.23.1402.877" timestamp="1615041949759" />
+    <state x="240" y="100" key="SettingsEditor" timestamp="1615042046512">
+      <screen x="38" y="23" width="1402" height="877" />
+    </state>
+    <state x="240" y="100" key="SettingsEditor/38.23.1402.877@38.23.1402.877" timestamp="1615042046512" />
+    <state x="339" y="201" key="Vcs.Push.Dialog.v2" timestamp="1615042533101">
+      <screen x="38" y="23" width="1402" height="877" />
+    </state>
+    <state x="339" y="201" key="Vcs.Push.Dialog.v2/38.23.1402.877@38.23.1402.877" timestamp="1615042533101" />
   </component>
 </project>
