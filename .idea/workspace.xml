@@ -35,9 +35,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a32ce97-3233-4cd4-aa90-365ea1f5b167" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ego-pojo/src/main/java/com/bjsxt/pojo/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/ego-pojo/src/main/java/com/bjsxt/pojo/Test.java" afterDir="false" />
-    </list>
+    <list default="true" id="8a32ce97-3233-4cd4-aa90-365ea1f5b167" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +50,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="test" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -109,7 +110,7 @@
       <option name="presentableId" value="Default" />
       <updated>1615041203915</updated>
       <workItem from="1615041205004" duration="2643000" />
-      <workItem from="1615095908206" duration="2023000" />
+      <workItem from="1615095908206" duration="3546000" />
     </task>
     <task id="LOCAL-00001" summary="输出hello">
       <created>1615042063478</created>
